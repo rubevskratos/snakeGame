@@ -1,0 +1,22 @@
+#board {
+    background-color: lightgreen;
+}
+
+td {
+    width: 20px;
+    height: 20px;
+    background-color: darkgreen;
+}
+
+/*
+#board tr.row3 td.col5 {
+    background-color: yellow;
+}*/
+
+.snake {
+    background-color: rgb(218,94,0);
+}
+
+.mouse {
+    background-color: red;
+}
